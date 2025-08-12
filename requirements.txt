@@ -1,0 +1,14 @@
+# ── Core runtime ─────────────────────────
+numpy>=1.24
+scipy>=1.11
+
+# ── Qwen 2.5-Omni local inference ────────
+transformers>=4.53.3
+accelerate>=0.26.1
+sentencepiece>=0.2.0
+
+torch>=2.2.0
+torchvision>=0.17.0
+torchaudio>=2.2.0
+
+librosa
